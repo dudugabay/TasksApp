@@ -1,0 +1,12 @@
+D:\Dudu\Git\TasksApp\TasksApp\TasksApp\TasksApp\bin\Debug\netstandard2.0\TasksApp.deps.json
+D:\Dudu\Git\TasksApp\TasksApp\TasksApp\TasksApp\bin\Debug\netstandard2.0\TasksApp.dll
+D:\Dudu\Git\TasksApp\TasksApp\TasksApp\TasksApp\bin\Debug\netstandard2.0\TasksApp.pdb
+D:\Dudu\Git\TasksApp\TasksApp\TasksApp\TasksApp\obj\Debug\netstandard2.0\TasksApp.csprojAssemblyReference.cache
+D:\Dudu\Git\TasksApp\TasksApp\TasksApp\TasksApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Dudu\Git\TasksApp\TasksApp\TasksApp\TasksApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Dudu\Git\TasksApp\TasksApp\TasksApp\TasksApp\obj\Debug\netstandard2.0\TasksApp.csproj.CoreCompileInputs.cache
+D:\Dudu\Git\TasksApp\TasksApp\TasksApp\TasksApp\obj\Debug\netstandard2.0\TasksApp.AssemblyInfoInputs.cache
+D:\Dudu\Git\TasksApp\TasksApp\TasksApp\TasksApp\obj\Debug\netstandard2.0\TasksApp.AssemblyInfo.cs
+D:\Dudu\Git\TasksApp\TasksApp\TasksApp\TasksApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Dudu\Git\TasksApp\TasksApp\TasksApp\TasksApp\obj\Debug\netstandard2.0\TasksApp.dll
+D:\Dudu\Git\TasksApp\TasksApp\TasksApp\TasksApp\obj\Debug\netstandard2.0\TasksApp.pdb
